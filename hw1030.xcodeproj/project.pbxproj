@@ -168,6 +168,7 @@
 				TargetAttributes = {
 					76BB48C41A02287800D5AC5D = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = 8DCXL25R37;
 					};
 					76BB48DD1A02287800D5AC5D = {
 						CreatedOnToolsVersion = 6.1;
@@ -343,6 +344,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = hw1030/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -353,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = hw1030/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +415,7 @@
 				76BB48EA1A02287800D5AC5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76BB48EB1A02287800D5AC5D /* Build configuration list for PBXNativeTarget "hw1030Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +424,7 @@
 				76BB48ED1A02287800D5AC5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
